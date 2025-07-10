@@ -7,4 +7,4 @@
 🚀 Apasionado por el buen codigo y los retos tecnicos.  
 
 📲 Conecta conmigo:  
-[Instagram](https://instagram.com/ccccristian787) • [YouTube](https://youtube.com/@ccccristian787) • [TikTok](https://tiktok.com/@ccccristian787)
+[Instagram](https://instagram.com/ccccristian787) • [YouTube](https://youtube.com/@cristianquerolalves) • [TikTok](https://tiktok.com/@ccccristian787)
