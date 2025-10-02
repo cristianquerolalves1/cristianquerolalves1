@@ -2,7 +2,8 @@
   <img src="./header-banner.png" alt="Presentación" width="100%">
 </a>
 
-📲 Conecta conmigo:  
+
+## 📲 Conecta conmigo:  
 
 <div align="left">
   <a href="https://www.youtube.com/cristianquerolalves" target="_blank">
