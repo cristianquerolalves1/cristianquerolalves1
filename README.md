@@ -31,7 +31,7 @@ Soy estudiante de **Informática de Oficina** en **La Salle Barceloneta**, apasi
 
 ## 🚀 Sobre mí
 - 💻 Apasionado por la **automatización de tareas** y la optimización de procesos de oficina.  
-- 📊 Experiencia básica en **gestión de datos**, hojas de cálculo y bases de datos simples.  
+- 📊 Experiencia básica en **gestión de datos**, hojas de cálculo y bases de datos.  
 - 🌱 Aprendiendo constantemente **HTML, CSS, JavaScript** y herramientas ofimáticas avanzadas.  
 - 🤝 Motivado para **colaborar en proyectos** que combinen tecnología y productividad.  
 - 🎯 Curioso, creativo y enfocado en **mejorar habilidades digitales día a día**.  
@@ -40,7 +40,7 @@ Soy estudiante de **Informática de Oficina** en **La Salle Barceloneta**, apasi
 - **Ofimática:** Microsoft Office (Word, Excel, PowerPoint), Google Workspace  
 - **Programación avanzada:** HTML, CSS, JavaScript  
 - **Bases de datos:** MySQL, SQLite  
-- **Otros:** Git básico, Linux, automatización de tareas, vpn's
+- **Otros:** Git avanzado, Linux, automatización de tareas, vpn's
 
 ## 📫 Contacto
 - ✉️ Email: cristianquerol7@gmail.com
