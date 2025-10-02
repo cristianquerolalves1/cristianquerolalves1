@@ -26,7 +26,7 @@ Soy estudiante de **Informática de Oficina** en **La Salle Barceloneta**, apasi
 ## 📫 Contacto
 - ✉️ Email: cristianquerol7@gmail.com
 - 🌐 Moon Vision: [Únete](https://discord.gg/HtJ8uMQBed)  
-- 🐙 GitHub: cristianquerolalves1  
+- 🐙 GitHub: [cristianquerolalves1](https://github.com/cristianquerolalves1/)
 
 ## ⚡ Dato curioso
 Me encanta explorar nuevas herramientas digitales, aprender de proyectos reales y encontrar soluciones creativas que faciliten la vida diaria en entornos de oficina.
