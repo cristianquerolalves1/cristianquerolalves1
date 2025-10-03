@@ -1,84 +1,71 @@
-<div align="center">
+<!--Banner-->
+![Cristian Banner Image](./banner.png)
 
-# ✨ Cristian Querol Alves  
-**Estudiante de Informática · Productividad & Tecnología**
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-_Automatización · Desarrollo Web · Ofimática Avanzada_
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴄʀɪsᴛɪᴀɴ!
+*Estudiante de Informática · La Salle Barcelona*
+<br />
+
+<!--Start Intro-->               
+<p align="left">
+Estudiante de informática apasionado por la tecnología y la aviación. Disfruto creando soluciones simples y eficientes, explorando nuevas tecnologías y mejorando mis habilidades de programación.
+</p>
+
+- 🌱 Conocimientos: JavaScript, HTML, CSS, Lua, Node.js, Bases de datos  
+- ✨ Siempre aprendiendo nuevas herramientas y frameworks  
+- 💻 Explorando proyectos personales y contribuyendo a Open Source  
+- 🛩 Apasionado por la aviación y la tecnología aplicada
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=cristianquerolalves1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Cristian Querol Alves" style="padding-right:20px;" />
+</p>
 
 ---
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge&color=58A6FF" alt="Profile views" />
-
-</div>
-
----
-
-## 🛠 Tech & Tools
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)
-
-</div>
+<!--Tech Stack-->       
+<h2 align="center">🛠 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&hide_border=true" width="41%" />
-
-</div>
+<!--GitHub Stats & Trophies-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & 🏆 Tʀᴏᴘʜɪᴇs</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianquerolalves1&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cristianquerolalves1&no-bg=true&row=1&column=5" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🔥 Actividad Reciente
-<div align="center">
+<!--Connect With Me / Socials-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+<p align="center">
+  <a href="mailto:cristian.querol@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.github.com/cristianquerolalves1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/cristian-querol/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" width="48%" />
-
-<!-- Contributions Snake -->
-<img src="https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg" width="48%" />
-
-</div>
-
----
-
-## 🏆 Logros & Badges
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&row=1" width="80%" />
-
-</div>
-
----
-
-## 🌐 Conecta conmigo
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianquerool)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cristianquerolalves)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cristianquerool)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HtJ8uMQBed)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianquerol7@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-✨ _“Transformando procesos en soluciones simples y eficientes”_ ✨  
-<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" />
-
-</div>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
