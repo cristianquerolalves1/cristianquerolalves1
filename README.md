@@ -28,15 +28,33 @@ Estudiante de informática apasionado por la tecnología y la aviación. Disfrut
 
 ---
 
-<!--Tech Stack-->       
-<h2 align="center">🛠 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
+  <!-- Lenguajes / Frontend -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/MegaDB-0f52ba?style=for-the-badge&logo=megadb&logoColor=white" alt="MegaDB">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+
+  <!-- Frameworks / Librerías -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
+
 
 ---
 
@@ -54,13 +72,13 @@ Estudiante de informática apasionado por la tecnología y la aviación. Disfrut
 <!--Connect With Me / Socials-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <p align="center">
-  <a href="mailto:cristian.querol@example.com" target="_blank">
+  <a href="mailto:cristianquerol7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.instagram.com/cristianquerol" target="_blank">
+  <a href="https://www.instagram.com/cristianquerool" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://discord.gg/tu-invitacion" target="_blank">
+  <a href="https://discord.gg/HtJ8uMQBed" target="_blank">
     <img src="https://img.shields.io/badge/Moon%20Vision-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Moon Vision Discord">
   </a>
 </p>
