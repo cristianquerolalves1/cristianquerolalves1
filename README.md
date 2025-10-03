@@ -54,14 +54,14 @@ Estudiante de informática apasionado por la tecnología y la aviación. Disfrut
 <!--Connect With Me / Socials-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <p align="center">
-  <a href="mailto:cristian.querol@example.com">
+  <a href="mailto:cristian.querol@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.github.com/cristianquerolalves1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.instagram.com/cristianquerol" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/cristian-querol/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://discord.gg/tu-invitacion" target="_blank">
+    <img src="https://img.shields.io/badge/Moon%20Vision-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Moon Vision Discord">
   </a>
 </p>
 
