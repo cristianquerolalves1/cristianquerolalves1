@@ -1,46 +1,84 @@
-<div>
-  <a href="https://instagram.com/ccccristian787" target="_blank">
-  <img src="./header-banner.png" alt="Presentación" width="100%">
-</a>
-</div>
-
 <div align="center">
-  <a href="https://www.youtube.com/cristianquerolalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/cristianquerool" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.twitch.tv/cristianquerool" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-  <a href="https://discord.gg/HtJ8uMQBed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:cristianquerol7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=007BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+
+# ✨ Cristian Querol Alves  
+**Estudiante de Informática · Productividad & Tecnología**
+
+_Automatización · Desarrollo Web · Ofimática Avanzada_
 
 ---
 
-<a> Soy estudiante de **Informática de Oficina** en **La Salle Barceloneta**, apasionado por la tecnología, la productividad digital y la innovación en entornos de oficina. Me encanta aprender de manera práctica y aplicar mis conocimientos para mejorar procesos y optimizar tareas mediante herramientas digitales.  </a> 
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge&color=58A6FF" alt="Profile views" />
 
 </div>
 
-## 🚀 Sobre mí
-- <img src="https://github.com/user-attachments/assets/8c14962b-4b89-403e-b692-2b97e9704eb5" height="20px"> Apasionado por la **automatización de tareas** y la optimización de procesos de oficina.  
-- <img src="https://github.com/user-attachments/assets/864b0165-73e8-4392-9d7d-19bb0b5d05d5" height="20px"> Experiencia básica en **gestión de datos**, hojas de cálculo y bases de datos.  
-- <img src="https://github.com/user-attachments/assets/abcd5b30-013d-4f7a-9032-718ccf832ad6" height="20px"> Aprendiendo constantemente **HTML, CSS, JavaScript** y herramientas ofimáticas avanzadas.  
-- <img src="https://github.com/user-attachments/assets/4d9b4a3d-f605-4967-815d-1e89a4d8fbda" height="20px"> Motivado para **colaborar en proyectos** que combinen tecnología y productividad.  
-- <img src="https://github.com/user-attachments/assets/502b869c-4e9f-4aa4-93e3-1e0abc61bca2" height="20px"> Curioso, creativo y enfocado en **mejorar habilidades digitales día a día**.  
+---
 
-## 🛠 Habilidades
-- **Ofimática:** Microsoft Office (Word, Excel, PowerPoint), Google Workspace  
-- **Programación avanzada:** HTML, CSS, JavaScript  
-- **Bases de datos:** MySQL, SQLite  
-- **Otros:** Git avanzado, Linux, automatización de tareas, vpn's
+## 🛠 Tech & Tools
+<div align="center">
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)
 
-  <div align="center">
-    <a href="mailto:cristianquerol7@gmail.com"><code>cristianquerol7@gmail.com</code></a> · <a href="https://discord.gg/HtJ8uMQBed"> <code>Moon Vision</code> </a> 
+</div>
 
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&hide_border=true" width="41%" />
+
+</div>
+
+---
+
+## 🔥 Actividad Reciente
+<div align="center">
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" width="48%" />
+
+<!-- Contributions Snake -->
+<img src="https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg" width="48%" />
+
+</div>
+
+---
+
+## 🏆 Logros & Badges
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&row=1" width="80%" />
+
+</div>
+
+---
+
+## 🌐 Conecta conmigo
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianquerool)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/cristianquerolalves)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cristianquerool)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HtJ8uMQBed)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianquerol7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ _“Transformando procesos en soluciones simples y eficientes”_ ✨  
+<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" />
+
+</div>
