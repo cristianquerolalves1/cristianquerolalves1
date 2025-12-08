@@ -13,7 +13,7 @@
       <a href="mailto:clasallebarceloneta@gmail.com">
         <img src="https://img.shields.io/badge/MAIL-black?style=for-the-badge" alt="Mail" />
       </a>
-      <a href="">
+      <a href="https://portfolio-cristianquerol.vercel.app/">
         <img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
       </a>
       <br><br>
