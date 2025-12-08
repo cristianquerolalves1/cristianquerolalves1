@@ -7,17 +7,18 @@
         <img src="https://cdn.discordapp.com/attachments/1433487811205529600/1447583072018235412/After_Effects_Odometer_Script.gif?ex=6938264b&is=6936d4cb&hm=9e1f4bd7f483ee3902ef8434b9a21ee2eda221ec7fc5303e994786341470996b&" alt="Cristian Banner GIF" width="350" />
       </a>
       <br><br>
-      <a href="mailto:clasallebarceloneta@gmail.com">
-        <img src="https://img.shields.io/badge/MAIL-black?style=for-the-badge" />
+      <a href="https://www.npmjs.com/~cristianquerolalves">
+        <img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
       </a>
-      <a href="https://twitch.tv/cristianquerool">
-        <img src="https://img.shields.io/badge/TWITCH-purple?style=for-the-badge" />
+      <a href="mailto:clasallebarceloneta@gmail.com">
+        <img src="https://img.shields.io/badge/MAIL-black?style=for-the-badge" alt="Mail" />
+      </a>
+      <a href="">
+        <img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
       </a>
       <br><br>
     </td>
-  
   </tr>
 </table>
-
 
 </p>
