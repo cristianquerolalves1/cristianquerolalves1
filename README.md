@@ -6,18 +6,24 @@
 
 <br>
 
-<p align="center">
-  <a href="https://www.npmjs.com/~cristianquerolalves">
-    <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=#cb3837&color=0f0f1a&labelColor=1a1a2e" alt="NPM"/>
+<h1 id="top"></h1>
+<p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin-top:0;">
+
+  <!-- NPM -->
+  <a href="https://www.npmjs.com/~cristianquerolalves" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/NPM-FA2C28?style=for-the-badge&logo=npm&logoColor=white&color=FF3E30&labelColor=2F2F2F&borderRadius=14" alt="NPM"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:clasallebarceloneta@gmail.com">
-    <img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&color=0f0f1a&labelColor=1a1a2e" alt="Mail"/>
+
+  <!-- MAIL -->
+  <a href="mailto:clasallebarceloneta@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6F61&labelColor=2F2F2F&borderRadius=14" alt="Mail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-cristianquerol.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-818cf8?style=for-the-badge&logo=vercel&logoColor=white&color=0f0f1a&labelColor=1a1a2e" alt="Portfolio"/>
+
+  <!-- PORTFOLIO -->
+  <a href="https://portfolio-cristianquerol.vercel.app/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=vercel&logoColor=white&color=5C63FF&labelColor=2F2F2F&borderRadius=14" alt="Portfolio"/>
   </a>
+
 </p>
 
-<br>
+
