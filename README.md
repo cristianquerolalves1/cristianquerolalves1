@@ -7,24 +7,11 @@
 <br>
 
 <h1 id="top"></h1>
-<p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin-top:0;">
-
-  <!-- NPM -->
-  <a href="https://www.npmjs.com/~cristianquerolalves" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/NPM-FA2C28?style=for-the-badge&logo=npm&logoColor=white&color=FF3E30&labelColor=2F2F2F&borderRadius=14" alt="NPM"/>
+<p align="center">
+  <a href="https://www.npmjs.com/~cristianquerolalves">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/npm.svg" alt="npm" />
   </a>
-
-
-</p>
-
-<p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; margin-top:0;">
-
-  <!-- PORTFOLIO -->
-  <a href="https://portfolio-cristianquerol.vercel.app/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=vercel&logoColor=white&color=5C63FF&labelColor=2F2F2F&borderRadius=14" alt="Portfolio"/>
+  <a href="https://discord.com/">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg" alt="Discord" />
   </a>
-
-
-
 </p>
-
