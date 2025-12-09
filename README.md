@@ -14,4 +14,7 @@
   <a href="https://discord.com/">
     <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg" alt="Discord" />
   </a>
+   <a href="https://portfolio-cristianquerol.vercel.app/">
+    <img src="./PORTFOLIO.svg" alt="Portfolio" />
+  </a>
 </p>
