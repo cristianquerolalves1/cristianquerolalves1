@@ -20,7 +20,7 @@
   <a href="https://github.com/0xlayout">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-        <a href="[https://skillicons.dev](https://www.npmjs.com/~0xlayout)">
+        <a href="https://www.npmjs.com/~0xlayout">
     <img src="https://skillicons.dev/icons?i=npm" />
   </a>
         <a href="mailto:0xlayout@atomicmail.io">
