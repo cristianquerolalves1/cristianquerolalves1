@@ -16,16 +16,16 @@
         height="360"
       />
     </div>
-    <div style="display:grid; grid-template-columns:repeat(3,1fr);">
-      <a href="https://github.com/0xlayout" align="center">
-        GitHub
-      </a>
-      <a href="#" align="center">
-        NPM
-      </a>
-      <a href="mailto:0xlayout@atomicmail.io" align="center">
-        Contacto
-      </a>
-    </div>
+    <p align="center">
+  <a href="https://github.com/0xlayout">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+        <a href="[https://skillicons.dev](https://www.npmjs.com/~0xlayout)">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+        <a href="mailto:0xlayout@atomicmail.io">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
   </div>
 </div>
