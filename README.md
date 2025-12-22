@@ -10,10 +10,10 @@
   ">
     <div>
       <img 
-        src="https://cdn.discordapp.com/attachments/1433487843421851731/1450262364573270228/image_3.png?ex=6941e594&is=69409414&hm=ad78901221a6491b66332648967c4103b9dbfeb9170079cc7a32f7e85929b9fe&" 
+        src="https://cdn.discordapp.com/attachments/1433487811205529600/1452480155904770160/descarga_5.jpg?ex=6949f70e&is=6948a58e&hm=cd02521a1d8abd4e6958a7910559e3cfdc31a2167d4b611a3b82646ab251b503&" 
         alt="banner"
-        width="600"
-        height="360"
+        width="300"
+        height="500"
       />
     </div>
     <p align="center">
