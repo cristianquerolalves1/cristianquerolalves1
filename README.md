@@ -10,7 +10,7 @@
   ">
     <div>
       <img 
-        src="https://cdn.discordapp.com/attachments/1433487811205529600/1452480155904770160/descarga_5.jpg?ex=694bf14e&is=694a9fce&hm=50f9ee58851b0769395d98e07fb3eb1d29cbe5196d7c2087980d8e6d30b90d30&" 
+        src="https://cdn.discordapp.com/attachments/1433487811205529600/1452480155904770160/descarga_5.jpg?ex=694d42ce&is=694bf14e&hm=2e8d276503cd30b543d41ebe6ef2175b68ee62844b3e61567eeadd9b39107439&" 
         alt="banner"
         width="300"
         height="500"
